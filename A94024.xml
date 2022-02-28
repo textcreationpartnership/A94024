@@ -1,0 +1,159 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Strange newes from Virginia being a true relation of a great tempest in Virginia, by which many people lost their lives ... : as a further addition to this calamity, the sea exceeded its usual height above twelve foot, overflowing all the plain country ...</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1667</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94024</idno>
+            <idno type="STC">Wing S5910</idno>
+            <idno type="STC">ESTC R42902</idno>
+            <idno type="EEBO-CITATION">38875920</idno>
+            <idno type="OCLC">ocm 38875920</idno>
+            <idno type="VID">152432</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94024)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152432)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2296:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Strange newes from Virginia being a true relation of a great tempest in Virginia, by which many people lost their lives ... : as a further addition to this calamity, the sea exceeded its usual height above twelve foot, overflowing all the plain country ...</title>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for W. Thackeray ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1667.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures:</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hurricanes --  Virginia --  Early works to 1800.</term>
+               <term>Virginia --  Hurricane, 1667.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:152432:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 91 -->
+            <p>Strange Newes FROM VIRGINIA, BEING A true Relation of a Great Tempeſt in <hi>Virginia,</hi> by which many people loſt their Lives, great numbers of Cattle de<g ref="char:EOLhyphen"/>ſtroyed, Houſes, and in many pla<g ref="char:EOLhyphen"/>ces whole Plantations overturned, and whole Woods torn up by the Roots.</p>
+            <p>As a further addition to this calamity, the Sea exceeded its uſual height above twelve Foot, over<g ref="char:EOLhyphen"/>flowing all the Plain Country, carrying away much Corn and Tobacco, with many Cattle, forcing the Inhabitants into the Mountains for the ſecurity of their Lives.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>W. Thackeray</hi> next door to the <hi>Dolphin</hi> in Smithfield. 1667.</p>
+            <pb facs="tcp:152432:2"/>
+            <!-- PDF PAGE 92 -->
+            <pb facs="tcp:152432:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 92 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:152432:3"/>
+            <!-- PDF PAGE 93 -->
+            <pb n="3" facs="tcp:152432:3"/>
+            <!-- PDF PAGE 93 -->
+            <head>The Copy of a Letter from <hi>Virginia,</hi> Containing the Relation of a Violent <hi>Hurricane,</hi> which hapned the <hi>27th</hi> of <hi>Auguſt</hi> and continued (without in<g ref="char:EOLhyphen"/>termiſsion) twelve dayes together.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">H</seg>Aving this opportunity, I cannot but acquaint you with the Relation of a very ſtrange Tempeſt which hath been in theſe parts (with us called a <hi>Hurricane</hi>) which began <hi>Aug.</hi> 27. and continu<g ref="char:EOLhyphen"/>ed with ſuch Violence, that it overturned many Houſes, burying in the Ruines much Goods and
+<pb n="4" facs="tcp:152432:4"/>
+               <!-- PDF PAGE 94 -->many people, beating to the ground ſuch as were any wayes employed in the Fields, blowing many Cattle that were near the Sea or Rivers, in<g ref="char:EOLhyphen"/>to them, whereby unknown numbers have peri<g ref="char:EOLhyphen"/>ſhed, to the great affliction of all people, few ha<g ref="char:EOLhyphen"/>ving eſcaped who have not ſuffered in their per<g ref="char:EOLhyphen"/>ſons or Eſtates, much Corn was blown away, and great quantities of Tobacco have been loſt, to the great damage of many, and utter undoing of others. Neither did it end here, but the Trees were torn up by the roots, and in many places whole Woods blown down, ſo that they can<g ref="char:EOLhyphen"/>not go from Plantation to Plantation. The Sea (by the violence of the winds) ſwelled twelve Foot above its uſual height, drowning the whole Country before it, with many of the Inhabitants, their Cattle and Goods, the reſt being forced to ſave themſelves in the Mountains neareſt adjoy<g ref="char:EOLhyphen"/>ning, where they were forced to remain many dayes together in great want, till the Violence of the Tempeſt was over, which while it continu<g ref="char:EOLhyphen"/>ed, was accompanied with a very violent rain that continued twelve dayes and nights toge<g ref="char:EOLhyphen"/>ther without ceaſing, with that fury, that none
+<pb n="5" facs="tcp:152432:4"/>
+               <!-- PDF PAGE 94 -->were able to ſtir from their ſhelters, though al<g ref="char:EOLhyphen"/>moſt famiſhed for want of Proviſions. The ſhips that were in the Rivers have ſuſtained great da<g ref="char:EOLhyphen"/>mage, but we hope there is none of them loſt. This Tempeſt, for the time, was ſo furious, that it hath made a general Deſolation, overturning many Plantations, ſo that there was no<g ref="char:EOLhyphen"/>thing that could ſtand its fury. We are now with all the induſtry imaginable, repairing our ſhattered houſes, and gathering together what the Tempeſt hath left us. Although it was not alike Violent in all places, yet there is ſcarce any place in the whole Country where there is not left ſufficient marks of its ruines. By the next ſhips you will hear a particular of all our loſſes.</p>
+            <p>Such Hurricanes on the Land are ſeldome heard of, but Hurricanes upon the Sea are com<g ref="char:EOLhyphen"/>mon in thoſe parts, which are many times very prejudicial and dangerous to the ſhips Trading there. It was by a Hurricane that excellent Commander the Lord <hi>Willoughby</hi> periſhed, with divers others in his Company: By theſe kind of Tempeſts the King of <hi>Spain</hi> hath loſt at ſeveral times near 1000 ſail of ſhips.</p>
+            <pb n="6" facs="tcp:152432:5"/>
+            <!-- PDF PAGE 95 -->
+            <p>Neither are we without Preſidents of great Ruines and Deſolations which have been made in other places upon the Land. In the City of <hi>Raguſa</hi> belonging to the <hi>Venetians,</hi> hapned ſo violent an Earthquake, that the City was in a manner buried in its own ruines, with many hundreds of its Inhabitants: And at the ſame time many places belonging to the Turks were viſited with as great Deſolation. In England there have been very great Land-Tempeſts; on the third of <hi>September</hi> One thouſand ſix hundred fifty eight, there was ſo great a Tempeſt, that many houſes were blown down in ſeveral parts of England, Trees torn up by the Roots and laid croſs many Roads, in ſuch great numbers, that Travellers could not paſs till they were remo<g ref="char:EOLhyphen"/>ved. And ſuch like Tempeſts have ſince hap<g ref="char:EOLhyphen"/>ned in divers places in England, whereby peo<g ref="char:EOLhyphen"/>ple have been much damnified, but ſo great a one as this which hath now happened, we have not heard of amongſt us.</p>
+            <p>
+               <hi>The Judgments of God are not alwayes alike, God doth not for every ſmall ſin ſend a great Judgment, but like a loving Father, Firſt he ad<g ref="char:EOLhyphen"/>moniſheth
+<pb n="7" facs="tcp:152432:5"/>
+                  <!-- PDF PAGE 95 -->and warneth us of our ſins, and if that will not do, he Correcteth us mildly, but then, if we ſtill perſiſt in our evil way, and ſin as it were in deſpight of God, in deſpight of his warnings and Corrections, then he powreth in his Judg<g ref="char:EOLhyphen"/>ments upon us, if one Judgment will not do, he hath ſtill a greater Judgment in ſtore for us; if we ſtill perſiſt in our evil way, and turn not from our ſins, He will utterly deſtroy us.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:152432:6"/>
+            <!-- PDF PAGE 96 -->
+            <pb facs="tcp:152432:6"/>
+            <!-- PDF PAGE 96 -->
+         </div>
+      </body>
+   </text>
+</TEI>
